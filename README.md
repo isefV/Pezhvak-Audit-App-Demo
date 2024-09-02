@@ -12,5 +12,5 @@ Pezhvak is a powerful audit software designed to streamline the process of calcu
 
 ## Screenshots
 
-![alt text](https://github.com/isefV/Pezhvak-Audit-App-Demo/Screenshot/pezh-1.jpg?raw=true)
+![alt text](https://github.com/isefV/Pezhvak-Audit-App-Demo/blob/main/Screenshots/Pezh-1.jpg?raw=true)
 
